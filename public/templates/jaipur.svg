@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 840" width="600" height="840">
+<rect width="600" height="840" fill="#f6d9cf"/>
+<path d="M110 510 L110 280 A190 190 0 0 1 490 280 L490 510 Z" fill="#eab7a6"/>
+<circle cx="300" cy="330" r="92" fill="#c4553b"/>
+<path d="M110 510 L490 510" stroke="#3b1f1a" stroke-width="1"/>
+<path d="M150 510 q 37 -60 75 0" fill="none" stroke="#3b1f1a" stroke-width="0.8" opacity="0.5"/><path d="M225 510 q 37 -60 75 0" fill="none" stroke="#3b1f1a" stroke-width="0.8" opacity="0.5"/><path d="M300 510 q 37 -60 75 0" fill="none" stroke="#3b1f1a" stroke-width="0.8" opacity="0.5"/><path d="M375 510 q 37 -60 75 0" fill="none" stroke="#3b1f1a" stroke-width="0.8" opacity="0.5"/><path d="M450 510 q 37 -60 75 0" fill="none" stroke="#3b1f1a" stroke-width="0.8" opacity="0.5"/>
+<text x="300" y="580" text-anchor="middle" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="54" font-weight="400" font-style="normal" letter-spacing="0" fill="#3b1f1a" opacity="1">Ananya <tspan fill="#c4553b" font-style="italic">&amp;</tspan> Arjun</text>
+<text x="300" y="625" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" font-style="normal" letter-spacing="6" fill="#3b1f1a" opacity="1">ARE GETTING MARRIED</text>
+<line x1="270" y1="660" x2="330" y2="660" stroke="#c4553b" stroke-width="2"/>
+<text x="300" y="710" text-anchor="middle" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="30" font-weight="400" font-style="normal" letter-spacing="3" fill="#3b1f1a" opacity="1">02 . 03 . 2027</text>
+<text x="300" y="745" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" font-style="normal" letter-spacing="6" fill="#3b1f1a" opacity="0.7">JAIPUR</text></svg>

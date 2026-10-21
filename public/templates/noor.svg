@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 840" width="600" height="840">
+<rect width="600" height="840" fill="#f4efe6"/>
+<rect x="0" y="0" width="600" height="300" fill="#e6dccb"/>
+<text x="48" y="80" text-anchor="start" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" font-style="normal" letter-spacing="5" fill="#1d1a17" opacity="1">THE WEDDING OF</text>
+<text x="552" y="80" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" font-style="normal" letter-spacing="5" fill="#1d1a17" opacity="1">HYDERABAD</text>
+<line x1="48" y1="100" x2="552" y2="100" stroke="#1d1a17" stroke-width="1"/>
+<text x="44" y="250" text-anchor="start" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="120" font-weight="500" font-style="normal" letter-spacing="0" fill="#1d1a17" opacity="1">Ayesha</text>
+<text x="300" y="380" text-anchor="middle" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="90" font-weight="400" font-style="italic" letter-spacing="0" fill="#8a6a2f" opacity="1">&amp;</text>
+<text x="556" y="520" text-anchor="end" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="120" font-weight="500" font-style="normal" letter-spacing="0" fill="#1d1a17" opacity="1">Faraz</text>
+<line x1="48" y1="600" x2="552" y2="600" stroke="#1d1a17" stroke-width="1"/>
+<text x="48" y="650" text-anchor="start" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" font-style="normal" letter-spacing="5" fill="#1d1a17" opacity="1">SAVE THE DATE</text>
+<text x="48" y="720" text-anchor="start" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="40" font-weight="400" font-style="normal" letter-spacing="0" fill="#1d1a17" opacity="1">22 . 02 . 2027</text>
+<circle cx="490" cy="700" r="56" fill="none" stroke="#8a6a2f" stroke-width="1.5"/>
+<text x="490" y="696" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" font-style="normal" letter-spacing="4" fill="#8a6a2f" opacity="1">RSVP</text>
+<text x="490" y="716" text-anchor="middle" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="15" font-weight="400" font-style="italic" letter-spacing="0" fill="#8a6a2f" opacity="1">inside</text>
+<line x1="48" y1="790" x2="552" y2="790" stroke="#1d1a17" stroke-width="0.6" opacity="0.5"/></svg>
